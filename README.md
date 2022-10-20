@@ -28,3 +28,13 @@ Home Page image 3
 
 ![azure_4](https://user-images.githubusercontent.com/75089977/192149036-0953a629-d656-4c21-a6b2-eea4db02dea6.jpg)
 Microsoft Azure
+
+![azure_5](https://user-images.githubusercontent.com/75089977/196975281-49596094-0db7-41c7-bb47-b7c3af596b52.jpg)
+Microsoft Azure Home Tab
+
+![azure_6](https://user-images.githubusercontent.com/75089977/196975522-22155e96-6ee6-4cd0-a381-eeaae5279e28.jpg)
+Details about the finalproject such as type,url on azure
+
+![azure_7](https://user-images.githubusercontent.com/75089977/196976013-5c406406-d811-48e1-8603-4a717653e410.jpg)
+Deployment of project on azure portal
+
